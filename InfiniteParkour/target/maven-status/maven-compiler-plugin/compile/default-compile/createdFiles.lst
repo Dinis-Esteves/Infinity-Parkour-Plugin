@@ -1,0 +1,6 @@
+me/DinisEsteves/infiniteParkour/InfiniteParkour.class
+me/DinisEsteves/infiniteParkour/Commands/StartInfiniteParkourCommand.class
+me/DinisEsteves/infiniteParkour/Listeners/StartParkourMenuClick$1.class
+me/DinisEsteves/infiniteParkour/ParkourManager.class
+me/DinisEsteves/infiniteParkour/Listeners/StartParkourMenuClick.class
+me/DinisEsteves/infiniteParkour/Listeners/ParkourJumpListener.class

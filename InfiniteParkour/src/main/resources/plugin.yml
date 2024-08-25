@@ -1,0 +1,7 @@
+name: InfiniteParkour
+version: '1.0-SNAPSHOT'
+main: me.DinisEsteves.infiniteParkour.InfiniteParkour
+api-version: '1.21'
+commands:
+  parkour:
+    description: "Use this command to start the parkour"
